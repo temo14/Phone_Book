@@ -1,0 +1,17 @@
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\PhoneBook.Business.deps.json
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\PhoneBook.Business.dll
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\ref\PhoneBook.Business.dll
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\PhoneBook.Business.pdb
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\PhoneBook.Data.dll
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\PhoneBook.Models.dll
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\PhoneBook.Data.pdb
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\bin\Debug\net5.0\PhoneBook.Models.pdb
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.csproj.AssemblyReference.cache
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.AssemblyInfoInputs.cache
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.AssemblyInfo.cs
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.csproj.CoreCompileInputs.cache
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.csproj.CopyComplete
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.dll
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\ref\PhoneBook.Business.dll
+C:\Users\Temo\Desktop\phonebook-19.06\PhoneBook.Business\obj\Debug\net5.0\PhoneBook.Business.pdb

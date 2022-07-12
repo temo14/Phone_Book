@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "PhoneBook.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "PhoneBook.Data": "1.0.0",
+          "PhoneBook.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PhoneBook.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhoneBook.Business.dll": {}
+        }
+      },
+      "PhoneBook.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "PhoneBook.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PhoneBook.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhoneBook.Data.dll": {}
+        }
+      },
+      "PhoneBook.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PhoneBook.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhoneBook.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBook.Business/1.0.0": {
+      "type": "project",
+      "path": "../PhoneBook.Business/PhoneBook.Business.csproj",
+      "msbuildProject": "../PhoneBook.Business/PhoneBook.Business.csproj"
+    },
+    "PhoneBook.Data/1.0.0": {
+      "type": "project",
+      "path": "../PhoneBook.Data/PhoneBook.Data.csproj",
+      "msbuildProject": "../PhoneBook.Data/PhoneBook.Data.csproj"
+    },
+    "PhoneBook.Models/1.0.0": {
+      "type": "project",
+      "path": "../PhoneBook.Models/PhoneBook.Models.csproj",
+      "msbuildProject": "../PhoneBook.Models/PhoneBook.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "PhoneBook.Business >= 1.0.0",
+      "PhoneBook.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Temo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Temo\\Desktop\\phonebook-19.06\\PhoneBook.App\\PhoneBook.App.csproj",
+      "projectName": "PhoneBook.App",
+      "projectPath": "C:\\Users\\Temo\\Desktop\\phonebook-19.06\\PhoneBook.App\\PhoneBook.App.csproj",
+      "packagesPath": "C:\\Users\\Temo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Temo\\Desktop\\phonebook-19.06\\PhoneBook.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Temo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Temo\\Desktop\\phonebook-19.06\\PhoneBook.Business\\PhoneBook.Business.csproj": {
+              "projectPath": "C:\\Users\\Temo\\Desktop\\phonebook-19.06\\PhoneBook.Business\\PhoneBook.Business.csproj"
+            },
+            "C:\\Users\\Temo\\Desktop\\phonebook-19.06\\PhoneBook.Models\\PhoneBook.Models.csproj": {
+              "projectPath": "C:\\Users\\Temo\\Desktop\\phonebook-19.06\\PhoneBook.Models\\PhoneBook.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PhoneBook.Data/1.0.0": {
+        "dependencies": {
+          "PhoneBook.Models": "1.0.0"
+        },
+        "runtime": {
+          "PhoneBook.Data.dll": {}
+        }
+      },
+      "PhoneBook.Models/1.0.0": {
+        "runtime": {
+          "PhoneBook.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBook.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoneBook.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
